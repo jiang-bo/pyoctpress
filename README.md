@@ -3,6 +3,11 @@ pyoctpress
 
 An tool to move your blog to octpresss, now includes wordpress and csdn blog
 
+##Prerequisite
+BeautifulSoup3 is needed! You can install it with:
+    
+    pip install beautifulsoup
+
 ##How to use
 
 Firt git clone pyoctpress and cd in
